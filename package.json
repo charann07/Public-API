@@ -1,0 +1,17 @@
+{
+  "name": "dragonball-api-example",
+  "version": "1.0.0",
+  "description": "Simple Node.js project to call Dragon Ball API using callbacks, promises, and async/await",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "dragonball",
+    "student"
+  ],
+  "author": "student",
+  "license": "ISC"
+}
